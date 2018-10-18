@@ -1,6 +1,7 @@
 module Main where
 
 import Lib
+import Chapter21
 
 main :: IO ()
-main = someFunc
+main = Chapter21.sayHello
