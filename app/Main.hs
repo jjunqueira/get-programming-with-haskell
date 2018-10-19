@@ -1,7 +1,7 @@
 module Main where
 
 import Lib
-import Chapter21
+import Chapter22
 
 main :: IO ()
-main = Chapter21.sayHello
+main = Chapter22.quotesProgram
