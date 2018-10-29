@@ -1,10 +1,10 @@
 name:                getprogrammingwithhaskell
 version:             0.1.0.0
-github:              "githubuser/getprogrammingwithhaskell"
+github:              "jjunqueira/getprogrammingwithhaskell"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2018 Author name here"
+author:              "Joshua Junqueira"
+maintainer:          "joshua.junqueira@gmail.com"
+copyright:           "2018 Joshua Junqueira"
 
 extra-source-files:
 - README.md
@@ -25,6 +25,7 @@ dependencies:
 - random
 - split
 - text
+- bytestring
 
 library:
   source-dirs: src

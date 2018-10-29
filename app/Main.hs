@@ -1,7 +1,7 @@
 module Main where
 
 import Lib
-import Chapter24
+import Chapter25
 
 main :: IO ()
-main = Chapter24.capitalize
+main = Chapter25.byteCharDiff
