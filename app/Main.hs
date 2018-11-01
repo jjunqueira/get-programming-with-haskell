@@ -1,7 +1,7 @@
 module Main where
 
 import Lib
-import Chapter25
+import Chapter26
 
 main :: IO ()
-main = Chapter25.byteCharDiff
+main = Chapter26.marcFileToHtmlProgram
